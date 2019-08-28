@@ -1,0 +1,22 @@
+body {
+    background-color: purple;
+    color: yellow;
+}
+h1 {
+    color: blue;
+}
+#intro {
+    background-color: green;
+}
+.hidden {
+    display: none;
+}
+#intro p {
+    color: grey;
+}
+p {
+    color: salmon;
+}
+ul {
+    cursor: pointer;
+}
